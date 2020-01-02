@@ -1,0 +1,145 @@
+Augustów              Zdrojowa                                 2051
+Białystok             Sucha                                    32
+Białystok             Warszawska                               71
+Biecz                 Przedmieście Dolne                       2856
+Bielsko-Biała         Kazimierza Przerwy-Tetmajera             90
+Bochnia               Bernardyńska                             610
+Bochnia               Generała Jakubowskiego                   594
+Bochnia               Kazimierza Wielkiego                     595
+Bochnia               Oracka                                   598
+Brzesko               Bartosza Głowackiego                     705
+Brzesko               Słowackiego                              710
+Bydgoszcz             Grudziądzka                              9
+Ciężkowice            Łuczkiewiczów                            892
+Częstochowa           aleja Jana Pawła II                      92
+Dębica                Rynek                                    718
+Dębica                Strumskiego                              721
+Gdańsk                Doktora Franciszka Kubacza               37
+Gdańsk                Kaczeńce                                 76
+Gdańsk                Powstańców Warszawskich                  78
+Gdańsk                Wyzwolenia                               79
+Gdynia                Gen. Kleeberga                           80
+Gdynia                Marka Zygmunta                           82
+Gliwice               Norberta Barlickiego                     526
+Gorlice               Piękna, Miejski Zespół Szkół nr 1        2453
+Gorlice               Wyszyńskiego, Miejski Zespół Szkół nr 3  452
+Gromnik               Wincentego Witosa                        902
+Głogoczów             -                                        597
+Jasło                 Władysława Sikorskiego                   73
+Jawornik              -                                        590
+Katowice              Sławka                                   43
+Kielce                Jagiellońska                             39
+Koszalin              Aleja Armii Krajowej                     126
+Kraków                Adolfa Nowaczyńskiego                    184
+Kraków                Aleja Pokoju                             140
+Kraków                Aleja Pokoju                             195
+Kraków                Aleje Trzech Wieszczów                   17
+Kraków                Antoniego Szyllinga                      202
+Kraków                Bulwarowa                                19
+Kraków                Dietla                                   58
+Kraków                Dworna                                   218
+Kraków                Dymarek                                  169
+Kraków                Dąbrowa                                  225
+Kraków                Ferdynanda Kurasia                       223
+Kraków                Generała Józefa Bema                     214
+Kraków                Kielecka                                 196
+Kraków                Korony Polskiej                          215
+Kraków                Krakusa                                  622
+Kraków                Leona Wyczółkowskiego                    174
+Kraków                Macieja Miechowity                       171
+Kraków                Macieja Słomczyńskiego                   208
+Kraków                Masarska                                 201
+Kraków                Mieczykowa                               226
+Kraków                Mikołajska                               204
+Kraków                Myśliwska                                176
+Kraków                Na Kozłówce                              180
+Kraków                Obozowa                                  228
+Kraków                Osiedle Dywizjonu 303                    221
+Kraków                Porucznika Halszki                       18
+Kraków                Prądnicka                                179
+Kraków                Racheli                                  60
+Kraków                Rogatka                                  220
+Kraków                Seweryna Goszczyńskiego                  857
+Kraków                Sołtysowska                              210
+Kraków                Starowiślna                              181
+Kraków                Stawowa                                  183
+Kraków                Studencka                                189
+Kraków                Słomiana                                 216
+Kraków                Telimeny                                 2064
+Kraków                Vlastimila Hofmana                       173
+Kraków                Wadowicka 8a                             2309
+Kraków                Wesele                                   170
+Kraków                Widłakowa                                222
+Kraków                Wiedeńska                                172
+Kraków                Wyżynna                                  263
+Kraków                aleja Jerzego Waszyngtona                212
+Kraków                aleja Kasztanowa                         192
+Kraków                osiedle Kolorowe                         194
+Kraków                osiedle Złota Podkowa                    895
+Kraków                Ślusarska                                147
+Kraków-Krowodrza      Radzikowskiego                           185
+Kraków-Podgórze       Hoffmanowej                              500
+Kraków-Podgórze       Sodowa                                   713
+Krosno                Aleksandra Fredry                        884
+Krosno                Podkarpacka                              874
+Krosno                Powstańców Śląskich                      889
+Krynica-Zdrój         aleja Nowotarskiego                      980
+Libusza               Remiza OSP w Libuszy                     2752
+Limanowa              Rynek                                    295
+Lubień                -                                        405
+Lublin                Kleniewskich                             12
+Mogilany              -                                        620
+Mogilany              Parkowa                                  368
+Myślenice             Dyrektora Stanisława Pardyaka            596
+Myślenice             Stefana Batorego                         614
+Myślenice             Zdrojowa                                 722
+Niepołomice           Krakowska                                280
+Niepołomice           Skarbowa                                 282
+Niepołomice           Szkolna                                  281
+Nowy Sącz             Królowej Jadwigi                         899
+Nowy Sącz             Nadbrzeżna                               61
+Nowy Sącz             Władysława Barbackiego                   929
+Nowy Targ             Kościelna                                62
+Okocim                Goetzów Okocimskich                      704
+Piotrków Trybunalski  Krakowskie Przedmieście                  52
+Piła                  Kadetów                                  124
+Poznań                Matejki                                  1062
+Rymanów-Zdrój         Parkowa                                  2053
+Rzepiennik Biskupi    -                                        816
+Rzepiennik Biskupi    -                                        910
+Rzeszów               Seniora                                  75
+Rząska                Krakowska                                493
+Skawina               Ogrody                                   64
+Sopot                 Bitwy pod Płowcami                       86
+Stary Sącz            Stefana Batorego                         905
+Sucha Beskidzka       Pułkownika Tadeusza Semika               306
+Suwałki               Wincentego Witosa                        34
+Sułkowice             Szkolna                                  555
+Szczecin              Marszałka Józefa Piłsudskiego            49
+Tarnów                Grottgera                                470
+Tarnów                Lema                                     479
+Tarnów                aleja Matki Boskiej Fatimskiej           2052
+Toruń                 Przy Kaszowniku                          116
+Tychy                 Cmentarna                                994
+Warszawa              Bora-Komorowskiego                       548
+Warszawa              Dobosza                                  528
+Warszawa              Janiszowska                              601
+Warszawa              Lewicka                                  303
+Warszawa              Marszałkowska                            28
+Warszawa              Mokotowska                               542
+Warszawa              Stanisława Rogalskiego                   543
+Warszawa              Wał Miedzeszyński                        546
+Warszawa              Ząbkowska                                338
+Warszawa              aleja Niepodległości                     26
+Warszawa              Świętokrzyska                            337
+Wieliczka             Adama Asnyka                             519
+Wieliczka             Marszałka Józefa Piłsudskiego            407
+Wieliczka             Stanisława Moniuszki                     426
+Wieliczka             Słowackiego                              304
+Zakopane              Henryka Sienkiewicza                     67
+Zamość                Hrubieszowska                            2063
+Zielona Góra          Krótka                                   16
+Łódź                  Jana Kilińskiego                         50
+Świątniki Górne       Bruchnalskiego                           324
+Świątniki Górne       Franciszka Bielowicza                    325
+Żywiec                Kopernika                                101
