@@ -27,7 +27,7 @@ Sensor listing:
 
      SELECT id,city,street,vendor FROM sensor ORDER BY city
 
-As example, let's pick sensor with id 519 (Wieliczka, Adama Asnyka)
+As example, let's pick sensor with id 304
 Data that can be read:
 * airQualityIndex
 * pm1
@@ -41,7 +41,7 @@ Data make it possible to analyze air quiality under picked categories
 Some exaples are given below.
 
 
-    SELECT count(*) FROM measurement WHERE sensorId='519' AND pm25>25
+    SELECT count(*) FROM measurement WHERE sensorId='304' AND pm25>25
 
 Get count of hours where limit for pm25 was exceeded
 
@@ -74,20 +74,28 @@ Get list ordered by the worst (avg value for samples where limit of pm25 was exc
 Get summary for specyfic sensor, showing how bad air was and for how many hours
 
     SELECT * FROM (
-     (SELECT sensor.city, sensor.street FROM sensor where id='519'),
-     (SELECT count(*) AS 'pm25>25' FROM measurement WHERE sensorId='519' AND pm25>25),
-     (SELECT count(*) AS 'pm25>50' FROM measurement WHERE sensorId='519' AND pm25>50),
-     (SELECT count(*) AS 'pm25>100' FROM measurement WHERE sensorId='519' AND pm25>100),
-     (SELECT count(*) AS 'pm25>200' FROM measurement WHERE sensorId='519' AND pm25>200),
-     (SELECT count(*) AS 'pm25>300' FROM measurement WHERE sensorId='519' AND pm25>300),
-     (SELECT count(*) AS 'pm25>400' FROM measurement WHERE sensorId='519' AND pm25>400)
+     (SELECT sensor.city, sensor.street FROM sensor where id='304'),
+     (SELECT count(*) AS 'pm25>25' FROM measurement WHERE sensorId='304' AND pm25>25),
+     (SELECT count(*) AS 'pm25>50' FROM measurement WHERE sensorId='304' AND pm25>50),
+     (SELECT count(*) AS 'pm25>100' FROM measurement WHERE sensorId='304' AND pm25>100),
+     (SELECT count(*) AS 'pm25>200' FROM measurement WHERE sensorId='304' AND pm25>200),
+     (SELECT count(*) AS 'pm25>300' FROM measurement WHERE sensorId='304' AND pm25>300),
+     (SELECT count(*) AS 'pm25>400' FROM measurement WHERE sensorId='304' AND pm25>400)
     )
 
 Plotting the data
 
-    SELECT fromDateTime, pm25 FROM measurement WHERE sensorId='519' | import as plot_data
+Pick data serie
+
+    SELECT fromDateTime, pm25 FROM measurement WHERE sensorId='304' | import as plot_data
+
+Define points
+
     x=plot_data[:,1]
     y=plot_data[:,2]
+
+Plot the data
+
     plot(x, y, "type=line&parser=YYYY-MM-DD[T]HH:mm:ss[Z]")
 
 Levels in Poland (as in http://www.gios.gov.pl/pl/aktualnosci/294-normy-dla-pylow-drobnych-w-polsce)
