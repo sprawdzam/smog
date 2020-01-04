@@ -114,7 +114,7 @@ Zalecenia w EU (za https://www.eea.europa.eu/themes/air/air-quality-concentratio
  * poziom roczny NO2 40 μg/m3
  * poziom godzinny NO2 200 μg/m3
 
-Poziomy alarmowe pm10 w EU (za https://dragonmask.pl/blog/normy-dla-pylow-pm2-5-i-pm10-w-polsce-i-w-europie)
+Poziomy alarmowe pm10 w EU (za https://www.levego.hu/sites/default/files/smog_emergency_schemes_in_europe_201703.pdf)
 
  * .at - 75 µg/m3
  * .ba - 400 µg/m3
